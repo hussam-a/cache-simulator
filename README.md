@@ -2,6 +2,11 @@
 
 A C++ program designed to simulate a direct-mapped, fully-associative, and set-associative caches
 
+## Authors
+
+- Hussam Elaraby (https://github.com/hussam-a)
+- Bishoy Boshra (bishoyboshra@aucegypt.edu)
+
 ## Cache Variations Simulated
 
 **Direct-mapped cache**
